@@ -36,3 +36,4 @@ jobs:
 
       - name: Style
         run: test -z $(go fmt ./...)
+
